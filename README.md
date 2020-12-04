@@ -1,4 +1,5 @@
 ### Well hello there!
+Take some time to read it's very informative and will teach us someething new.
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
